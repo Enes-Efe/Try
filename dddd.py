@@ -1,1 +1,8 @@
 print("hello")
+print("yakarsa dünyayı garipler yakar")
+print("hello")
+print("yakarsa dünyayı garipler yakar")
+print("hello")
+print("yakarsa dünyayı garipler yakar")
+print("hello")
+print("yakarsa dünyayı garipler yakar")
